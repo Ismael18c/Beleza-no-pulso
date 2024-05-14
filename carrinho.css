@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+
+.texto{
+    text-align: center; /* Alinha o texto no centro horizontalmente */
+    display: flex;
+    justify-content: center; /* Centraliza o elemento (no caso, o texto) horizontalmente */
+    align-items: center; /* Centraliza o elemento verticalmente */
+    height: 100vh;
+    padding-bottom: 35px;
+
+
+}
+
+body{
+    background-image: linear-gradient(to right, rgb(247, 247, 247), rgb(0, 0, 0)); 
+}
